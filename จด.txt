@@ -1,0 +1,13 @@
+แก้ปัญหา android ขอบชิดจอบน
+import { StatusBar } from "react-native";
+marginTop: StatusBar.currentHeight
+
+npm i @react-native-community/eslint-config
+ESlint คือ Linter ที่จะแนะนำให้เราเขียนโค้ดตามกฎมาตรฐานต่าง
+
+Cross-platform Material Design for React Native.
+npm install react-native-paper
+
+
+ทำ style ให้ component
+npm install --save styled-components
